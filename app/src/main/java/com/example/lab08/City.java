@@ -1,3 +1,5 @@
+//random comment because the lab description said so
+
 package com.example.lab08;
 
 public class City {
